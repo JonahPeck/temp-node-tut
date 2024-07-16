@@ -6,4 +6,4 @@ const newItems = _.flattenDeep(items);
 
 console.log(newItems)
 
-//I ned to aply to jobs
+//I am enjoying vacation
