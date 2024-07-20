@@ -6,5 +6,3 @@ const newItems = _.flattenDeep(items);
 
 console.log(newItems)
 
-
-hiuhihihih
